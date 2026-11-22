@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Talking-head rough cut",
+    "description": "Rough-cuts a scripted talking-head video: keeps only the last take of repeated lines, trims stumbles and pauses over 0.5s, and preserves sentence-final particles and hedges. Outputs at the source resolution and bitrate.",
+    "detail": "docs/DETAIL.md"
+  }
+}
