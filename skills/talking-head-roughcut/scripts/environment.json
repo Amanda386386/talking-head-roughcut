@@ -1,0 +1,7 @@
+{
+  "ffmpeg": "D:\\deepseek\\deepseek剪辑\\deepseek harness 以前\\_tools\\ffmpeg.exe",
+  "ffprobe": "D:\\deepseek\\deepseek剪辑\\deepseek harness 以前\\_tools\\ffprobe.exe",
+  "model": "D:\\deepseek\\deepseek剪辑\\deepseek harness 以前\\deepseek 剪辑视频\\models\\faster-whisper-large-v3",
+  "python": "D:\\deepseek\\deepseek剪辑\\deepseek harness 以前\\deepseek 剪辑视频\\.venv\\Scripts\\python.exe",
+  "notes": "ffmpeg 9.0.2 / faster-whisper large-v3 (int8, CPU) / Python 3.12 虚拟环境。换机器时改这三项，或设 KOU_BO_FFMPEG/KOU_BO_FFPROBE/KOU_BO_MODEL。注意：本机 Windows 沙箱下 ffmpeg 只能写工作区根目录（D:\\deepseek）内的路径，输出目录不在根目录下时先 --out-dir 到根目录再拷回。"
+}
