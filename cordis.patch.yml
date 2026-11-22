@@ -1,0 +1,4 @@
+- insert:
+    - id: talking-head-roughcut
+      name: "@local/talking-head-roughcut"
+      config: {}
